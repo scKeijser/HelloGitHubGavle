@@ -10,7 +10,7 @@ namespace HelloGitHubGavle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello VisualStudio");
+            Console.WriteLine("Hello Test");
         }
     }
 }
